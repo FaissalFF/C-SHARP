@@ -1,0 +1,12 @@
+C:\Users\Vocius\source\repos\Proyecto Frutas-Empleados\Proyecto Frutas-Empleados\bin\Debug\Proyecto Frutas-Empleados.exe.config
+C:\Users\Vocius\source\repos\Proyecto Frutas-Empleados\Proyecto Frutas-Empleados\bin\Debug\Proyecto Frutas-Empleados.exe
+C:\Users\Vocius\source\repos\Proyecto Frutas-Empleados\Proyecto Frutas-Empleados\bin\Debug\Proyecto Frutas-Empleados.pdb
+C:\Users\Vocius\source\repos\Proyecto Frutas-Empleados\Proyecto Frutas-Empleados\bin\Debug\MySql.Data.dll
+C:\Users\Vocius\source\repos\Proyecto Frutas-Empleados\Proyecto Frutas-Empleados\obj\Debug\Proyecto Frutas-Empleados.csproj.AssemblyReference.cache
+C:\Users\Vocius\source\repos\Proyecto Frutas-Empleados\Proyecto Frutas-Empleados\obj\Debug\Proyecto_Frutas_Empleados.Form1.resources
+C:\Users\Vocius\source\repos\Proyecto Frutas-Empleados\Proyecto Frutas-Empleados\obj\Debug\Proyecto_Frutas_Empleados.Properties.Resources.resources
+C:\Users\Vocius\source\repos\Proyecto Frutas-Empleados\Proyecto Frutas-Empleados\obj\Debug\Proyecto Frutas-Empleados.csproj.GenerateResource.cache
+C:\Users\Vocius\source\repos\Proyecto Frutas-Empleados\Proyecto Frutas-Empleados\obj\Debug\Proyecto Frutas-Empleados.csproj.CoreCompileInputs.cache
+C:\Users\Vocius\source\repos\Proyecto Frutas-Empleados\Proyecto Frutas-Empleados\obj\Debug\Proyecto Frutas-Empleados.csproj.CopyComplete
+C:\Users\Vocius\source\repos\Proyecto Frutas-Empleados\Proyecto Frutas-Empleados\obj\Debug\Proyecto Frutas-Empleados.exe
+C:\Users\Vocius\source\repos\Proyecto Frutas-Empleados\Proyecto Frutas-Empleados\obj\Debug\Proyecto Frutas-Empleados.pdb
