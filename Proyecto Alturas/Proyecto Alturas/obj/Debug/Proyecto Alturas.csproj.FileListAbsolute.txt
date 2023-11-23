@@ -1,0 +1,12 @@
+C:\Users\Vocius\source\repos\Proyecto Alturas\Proyecto Alturas\bin\Debug\Proyecto Alturas.exe.config
+C:\Users\Vocius\source\repos\Proyecto Alturas\Proyecto Alturas\bin\Debug\Proyecto Alturas.exe
+C:\Users\Vocius\source\repos\Proyecto Alturas\Proyecto Alturas\bin\Debug\Proyecto Alturas.pdb
+C:\Users\Vocius\source\repos\Proyecto Alturas\Proyecto Alturas\bin\Debug\MySql.Data.dll
+C:\Users\Vocius\source\repos\Proyecto Alturas\Proyecto Alturas\obj\Debug\Proyecto Alturas.csproj.AssemblyReference.cache
+C:\Users\Vocius\source\repos\Proyecto Alturas\Proyecto Alturas\obj\Debug\Proyecto_Alturas.Form1.resources
+C:\Users\Vocius\source\repos\Proyecto Alturas\Proyecto Alturas\obj\Debug\Proyecto_Alturas.Properties.Resources.resources
+C:\Users\Vocius\source\repos\Proyecto Alturas\Proyecto Alturas\obj\Debug\Proyecto Alturas.csproj.GenerateResource.cache
+C:\Users\Vocius\source\repos\Proyecto Alturas\Proyecto Alturas\obj\Debug\Proyecto Alturas.csproj.CoreCompileInputs.cache
+C:\Users\Vocius\source\repos\Proyecto Alturas\Proyecto Alturas\obj\Debug\Proyecto Alturas.csproj.CopyComplete
+C:\Users\Vocius\source\repos\Proyecto Alturas\Proyecto Alturas\obj\Debug\Proyecto Alturas.exe
+C:\Users\Vocius\source\repos\Proyecto Alturas\Proyecto Alturas\obj\Debug\Proyecto Alturas.pdb
