@@ -1,0 +1,10 @@
+C:\Users\Vocius\source\repos\PrácticaEX1\PrácticaEX1\bin\Debug\PrácticaEX1.exe.config
+C:\Users\Vocius\source\repos\PrácticaEX1\PrácticaEX1\bin\Debug\PrácticaEX1.exe
+C:\Users\Vocius\source\repos\PrácticaEX1\PrácticaEX1\bin\Debug\PrácticaEX1.pdb
+C:\Users\Vocius\source\repos\PrácticaEX1\PrácticaEX1\obj\Debug\PrácticaEX1.csproj.AssemblyReference.cache
+C:\Users\Vocius\source\repos\PrácticaEX1\PrácticaEX1\obj\Debug\PrácticaEX1.Form1.resources
+C:\Users\Vocius\source\repos\PrácticaEX1\PrácticaEX1\obj\Debug\PrácticaEX1.Properties.Resources.resources
+C:\Users\Vocius\source\repos\PrácticaEX1\PrácticaEX1\obj\Debug\PrácticaEX1.csproj.GenerateResource.cache
+C:\Users\Vocius\source\repos\PrácticaEX1\PrácticaEX1\obj\Debug\PrácticaEX1.csproj.CoreCompileInputs.cache
+C:\Users\Vocius\source\repos\PrácticaEX1\PrácticaEX1\obj\Debug\PrácticaEX1.exe
+C:\Users\Vocius\source\repos\PrácticaEX1\PrácticaEX1\obj\Debug\PrácticaEX1.pdb
