@@ -1,0 +1,12 @@
+C:\Users\usuario\source\repos\ProyectoExamen\ProyectoExamen\bin\Debug\ProyectoExamen.exe.config
+C:\Users\usuario\source\repos\ProyectoExamen\ProyectoExamen\bin\Debug\ProyectoExamen.exe
+C:\Users\usuario\source\repos\ProyectoExamen\ProyectoExamen\bin\Debug\ProyectoExamen.pdb
+C:\Users\usuario\source\repos\ProyectoExamen\ProyectoExamen\obj\Debug\ProyectoExamen.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\ProyectoExamen\ProyectoExamen\obj\Debug\ProyectoExamen.Form1.resources
+C:\Users\usuario\source\repos\ProyectoExamen\ProyectoExamen\obj\Debug\ProyectoExamen.Properties.Resources.resources
+C:\Users\usuario\source\repos\ProyectoExamen\ProyectoExamen\obj\Debug\ProyectoExamen.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\ProyectoExamen\ProyectoExamen\obj\Debug\ProyectoExamen.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\ProyectoExamen\ProyectoExamen\obj\Debug\ProyectoExamen.exe
+C:\Users\usuario\source\repos\ProyectoExamen\ProyectoExamen\obj\Debug\ProyectoExamen.pdb
+C:\Users\usuario\source\repos\ProyectoExamen\ProyectoExamen\bin\Debug\MySql.Data.dll
+C:\Users\usuario\source\repos\ProyectoExamen\ProyectoExamen\obj\Debug\ProyectoExamen.csproj.CopyComplete
